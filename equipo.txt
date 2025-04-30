@@ -1,5 +1,6 @@
 Nombre: Facundo
-Mensaje: Estoy trabajando en mi rama personal.
+Mensaje: Estoy trabajando en mi proyecto de conflictos.
 
 Nombre: Anabella
-Mensaje: Estoy trabajando en mi rama personal.
+Mensaje: Cambio desde rama 1.
+
